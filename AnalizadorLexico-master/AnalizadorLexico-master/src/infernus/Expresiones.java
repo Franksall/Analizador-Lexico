@@ -16,6 +16,9 @@ public class Expresiones {
             case "int":
                 palabra = "Variable tipo entero";
                 break;
+            case "String":
+                palabra = "Variable tipo caracter";
+                break;
             case "fly":
                 palabra = "variable tipo flotante";
                 break;
