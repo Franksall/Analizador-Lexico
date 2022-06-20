@@ -82,8 +82,11 @@ public class Expresiones {
             case "*":
                 palabra = "Signo aritmetico de multiplicacion";
                 break;
+            case "?":
+                palabra = "Signo de interrogacion ";
+                break;
             case "/":
-                palabra = "Signo aritmetico de ";
+                palabra = "Signo aritmetico de division";
                 break;
             case ";":
                 palabra = "Termino de linea";
